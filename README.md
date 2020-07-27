@@ -10,12 +10,10 @@
 I used two models - Random Forrest Regressor and Decision Tree Regressor and these are the evaluations.
 - Random Forrest
 
-
 ⋅⋅- MAE: 0.7971604621587255
 ⋅⋅- MSE: 3.880762431820603
 ⋅⋅- RMSE: 1.9699650839090024
 - Decision Tree
-
 
 ⋅⋅- MAE: 0.9796721311475409
 ⋅⋅- MSE: 4.938009836065574
