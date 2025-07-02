@@ -1,7 +1,7 @@
 Flask==2.2.2
+numpy==1.23.5
+scikit-learn==0.23.1
 Werkzeug==2.2.3
-numpy==0.23.1
 pickleshare
-scikit-learn
 jsonify
 gunicorn
